@@ -1,0 +1,10 @@
+@import-normalize
+
+:root {
+  --white-color: #FFFFFF;
+  --black-color: #1e1e1e;
+  --grey-color: #9b9b9b;
+  --pink-color: #FFE3E3;
+  --cardo-font: 'Cardo', serif;
+  --montserrat-font: 'Montserrat', sans-serif;
+}
